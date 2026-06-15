@@ -47,7 +47,7 @@ You are ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LINMOH.LINMOH)
 ```golang
 var Me = Bcamy{
     MBTI:    "INTJ",
-    Code:    []string{"C/C++", "Golang", "Java", "Rust"},
+    Code:    []string{"C/C++", "Golang", "Swift", "Rust"},
     School:  "Pingyin Experimental Senior High School",
     Team:    "TATEN",
     Goal:    "Shandong University",
